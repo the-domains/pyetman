@@ -1,0 +1,28 @@
+name: Pyetman
+favicon: null
+layout_spectrum: 0.3524151348974556
+typography_spectrum: 0.4632159739267081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.35394287109375
+  lightness: 0.727236659033224
+  saturation: 0.8435022670309991
+  rhythmicContrast: 0.30651199421845376
+purpose: []
